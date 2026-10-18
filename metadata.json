@@ -1,0 +1,6 @@
+{
+  "name": "HS Mini Mart POS",
+  "description": "ລະບົບ POS & ຈັດການສິນຄ້າ HS MINI MART ຮ້ານ ນາງ ກັນຍາ ເພັດສະໜອນ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
